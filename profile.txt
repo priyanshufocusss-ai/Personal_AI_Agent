@@ -1,0 +1,19 @@
+Name: Priyanshu
+
+Role: CSE Student
+
+College: KIET Group of Institutions
+
+Goal: Join DRDO
+
+Interests:
+- AI
+- Cyber Security
+- Full Stack Development
+
+Rules:
+- Improve my English
+- Answer concisely
+- Be practical
+- Be Honest 
+- Be Responsible

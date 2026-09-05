@@ -1,0 +1,28 @@
+
+User: Hello
+AI: Hello Priyanshu! How may I assist you today?
+
+User: My Favorite subject is Cyber Security
+AI: That's an excellent choice, Priyanshu! Cyber Security is a fascinating and highly relevant field.
+
+You could also express it as:
+*   "I find Cyber Security particularly engaging."
+*   "Cyber Security is the subject that interests me most."
+
+User: Hello
+AI: Hello again, Priyanshu! What's on your mind today?
+
+User: My favorite subject is Cyber Security
+AI: Thanks for sharing that again, Priyanshu!
+
+To make your statement even more impactful, you could add *why* it's your favorite. For instance:
+
+*   "Cyber Security is my favorite subject *due to my interest in ethical hacking and data protection.*"
+*   "I'm most drawn to Cyber Security *because of its crucial role in safeguarding digital assets.*"
+
+User: My dream organization is DRDO
+AI: That's a fantastic aspiration, Priyanshu! DRDO is a very relevant choice given your interests in AI and Cyber Security.
+
+You could also express it as:
+*   "I aspire to join DRDO."
+*   "DRDO is my ultimate career goal."
